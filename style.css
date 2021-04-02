@@ -1,0 +1,55 @@
+h1{
+    color: white;
+    font-style: italic;
+}
+
+.header{
+    background-color: #191919;
+}
+
+.title{
+  color: white;  
+  color: white;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+}
+
+.info1{
+    color: white;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.info2{
+    color: white;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    color: white;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    background-color: cornsilk;
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.image{
+
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid black;
+     border-radius: 20px;
+    background-color:white;
+    width : 300 px;
+}
+
